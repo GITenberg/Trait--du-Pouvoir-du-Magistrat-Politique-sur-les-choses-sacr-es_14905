@@ -1,0 +1,33 @@
+_repo: Trait--du-Pouvoir-du-Magistrat-Politique-sur-les-choses-sacr-es_14905
+_version: 0.1.0
+alternative_title: De imperio summarum potestatum circa sacra. French
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grotius, Hugo
+    aliases:
+    - Groot, Hugo de
+    - De Groot, Hugo
+    birthdate: 1583
+    deathdate: 1645
+    gutenberg_agent_id: '5744'
+    url: http://www.gutenberg.org/2009/agents/5744
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_Grotius
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14905'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church and state -- Early works to 1800'
+- !lcsh 'Ecclesiastical law -- Early works to 1800'
+- !lcc 'KBR'
+title: Traité du Pouvoir du Magistrat Politique sur les choses sacrées
+url: http://www.gutenberg.org/ebooks/14905
